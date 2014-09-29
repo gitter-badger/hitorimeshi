@@ -22,6 +22,7 @@ TODO
 2.作成済みのapiの改良（必要に合わせて）
 
 ### レストラン
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/petitviolet/hitorimeshi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 1.近隣の店舗検索
   * url: /near\_rst
   * method: post
